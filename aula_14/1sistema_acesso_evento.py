@@ -14,8 +14,6 @@ while True:
     else:
         print("Entrada Negada.")
 
-    print() #print(dados)
-
     sair = input("\nDigite SAIR para sair ou pressione Enter para continuar: ")
     if sair == "SAIR":
         break
