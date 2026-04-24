@@ -36,7 +36,7 @@ not -> Ele altera o valor booleano da condição
 
 # Laços de Repetição
 É o recurso de programação que permite executar um conjunto de comando várias vezes. Também são chamados de Loop, Laços de repetição ou iteração.
-`FOR` -> Utilizamos qundo sabemos quantas vees queremos repetir algo.
+`FOR` -> Utilizamos qundo sabemos quantas vezes queremos repetir algo.
     Sintax Padrão:
 `for variavel in range(inicio,fim):`
     comandos
