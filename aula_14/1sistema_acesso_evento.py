@@ -1,4 +1,4 @@
-
+p
 while True:
     nome = input("\nDigite seu nome: \n")
     idade = int(input("\nDigite sua idade: \n"))
